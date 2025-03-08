@@ -10,11 +10,11 @@ Fernanda Kaory Saito (RM551104)
 
 ## Telas do Console
 - Parte 1: Login
-<img src="https://github.com/user-attachments/assets/0eb8cef7-966c-4f50-b3d7-9be3cefdc1df" width="700">
-<img src="https://github.com/user-attachments/assets/184fa0e2-410c-4853-9f0c-9d603eba7a42" width="700">
+<img src="https://github.com/user-attachments/assets/8bbb502c-6b05-44c4-ac71-8fce8fba7b25" width="700">
+<img src="https://github.com/user-attachments/assets/1488af82-6862-4217-bd05-db98f90820a9" width="700">
 
 - Parte 2: Informações de Aposentadoria
-<img src="https://github.com/user-attachments/assets/97464f7d-d1c6-495a-959e-878659384b46" width="700">
+<img src="https://github.com/user-attachments/assets/9d042af6-3cf0-4684-b11d-a251590e83b5" width="700">
 <img src="https://github.com/user-attachments/assets/9943f8b2-14e4-4b67-9498-f48f957a23a1" width="700">
 <img src="https://github.com/user-attachments/assets/a5baadf1-048a-4769-8146-7b29369a998d" width="700">
 
