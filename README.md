@@ -15,8 +15,9 @@ Fernanda Kaory Saito (RM551104)
 
 - Parte 2: Informações de Aposentadoria
 <img src="https://github.com/user-attachments/assets/9d042af6-3cf0-4684-b11d-a251590e83b5" width="700">
-<img src="https://github.com/user-attachments/assets/9943f8b2-14e4-4b67-9498-f48f957a23a1" width="700">
-<img src="https://github.com/user-attachments/assets/a5baadf1-048a-4769-8146-7b29369a998d" width="700">
+<img src="https://github.com/user-attachments/assets/2bf3ba88-56f6-43ea-8284-77a47d9a0a74" width="700">
+<img src="https://github.com/user-attachments/assets/2b42f2f7-8b8b-4045-a3c5-b2a29df3b739" width="700">
+
 
 - Parte 3: Exibição dos cálculos
 <img src="https://github.com/user-attachments/assets/8c9a3d31-19be-464c-9ab5-9ce6d949b40d" width="700">
