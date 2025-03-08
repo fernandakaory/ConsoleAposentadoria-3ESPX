@@ -13,9 +13,7 @@ namespace ConsoleAposentadoria
         {
             // Chama o método que verifica o login
             VerificaLogin();
-
         }
-
         static void VerificaLogin()
         {
             // Verifica se as informações de login estão corretas
@@ -33,17 +31,17 @@ namespace ConsoleAposentadoria
             {
                 Console.WriteLine("\nBem-Vindo!!!!");
                 CalculaAposentadoria();
-                Console.WriteLine("\nPressione qualquer tecla para sair do console. ");
-                Console.ReadKey();
+
             }
             else
             {
                 Console.WriteLine("\nEmail e/ou senha inválidos!");
+                Console.WriteLine("\nPressione qualquer tecla para sair do console. ");
+                Console.ReadKey();
 
             }
 
         }
-
 
         static void CalculaAposentadoria()
         {
@@ -95,15 +93,11 @@ namespace ConsoleAposentadoria
                         Console.WriteLine($"Tempo restante  de contribuição: {contribuicaoMinima - contribuicao}");
 
                     }
-
-
                 }
                 else
                 {
                     Console.WriteLine("Opção inválida! Tente novamente.");
                 }
-
-
             }
             catch (Exception ex)
             {
