@@ -31,6 +31,8 @@ namespace ConsoleAposentadoria
             {
                 Console.WriteLine("\nBem-Vindo!!!!");
                 CalculaAposentadoria();
+                Console.WriteLine("\nPressione qualquer tecla para sair do console. ");
+                Console.ReadKey();
 
             }
             else
