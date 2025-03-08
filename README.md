@@ -20,8 +20,9 @@ Fernanda Kaory Saito (RM551104)
 
 
 - Parte 3: Exibição dos cálculos
-<img src="https://github.com/user-attachments/assets/8c9a3d31-19be-464c-9ab5-9ce6d949b40d" width="700">
-<img src="https://github.com/user-attachments/assets/497c6e3c-3816-4eee-b40c-5e9d1809f838" width="700">
+<img src="https://github.com/user-attachments/assets/b8f6cbd5-afc9-4327-94b3-b1c05eb43191" width="700">
+<img src="https://github.com/user-attachments/assets/872df391-62c5-4c22-9bda-4ff7aa01e1e0" width="700">
+
 
 
 
